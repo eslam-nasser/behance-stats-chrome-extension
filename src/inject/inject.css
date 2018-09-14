@@ -1,0 +1,22 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+.rf-project-cover__details {
+    position: relative;
+}
+.rf-project-cover__details .likes-views-ratio {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    font-weight: bold;
+}
+
+.profile-stat {
+    position: relative;
+}
+.profile-stat-count .profile-likes-views-ratio {
+    position: absolute;
+    right: 35px;
+    top: 50%;
+    transform: translateY(-50%);
+}
